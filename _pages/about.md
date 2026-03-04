@@ -19,8 +19,7 @@ I have worked across academic, policy, and applied research contexts, including 
 
 My broader research interests include:
 
-• childhood exposure to domestic violence and abuse
-
+- childhood exposure to domestic violence and abuse
 - stalking and coercive control
 - adverse childhood experiences and intergenerational transmission of violence
 - violence prevention and safeguarding systems
