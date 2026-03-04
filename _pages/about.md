@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and 
+Applied Social Scientist | Violence, Safeguarding, and Public Health 
 
 About
 ======
