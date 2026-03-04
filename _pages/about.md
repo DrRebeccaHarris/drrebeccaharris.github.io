@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Dr Rebecca Harris"
 author_profile: true
 redirect_from: 
   - /about/
