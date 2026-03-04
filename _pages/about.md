@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Applied Social Scientist | Violence, Safeguarding, and Public Health 
-
 About
 ======
 I am an applied social scientist working at the intersection of violence, safeguarding, and public health. My research focuses on childhood exposure to domestic violence and abuse, stalking and coercive control, and the development of evidence-informed interventions to prevent harm.
