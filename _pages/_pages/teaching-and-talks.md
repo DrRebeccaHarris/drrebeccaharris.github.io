@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching & Talks"
+title: "Teaching and Talks"
 permalink: /teaching-and-talks/
 author_profile: true
 ---
