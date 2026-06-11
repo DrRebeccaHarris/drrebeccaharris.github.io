@@ -14,7 +14,7 @@ Klinkner, M., Smith, E., & **Harris, R. J.** (2025). [Rights-informed mass grave
 
 **Harris, R. J.**, Channon, A. A., & Morgan, S. A. (2024). *[Childhood exposure to domestic violence: Can global estimates on the scale of exposure be obtained using existing measures?](https://doi.org/10.3389/fpubh.2024.1181837) *Frontiers in Public Health, 12*(1181837). doi:10.3389/fpubh.2024.1181837
 
-**Harris, R. J.**, Maguire, T., & Newman-Taylor, K. (2021). [What do trainee cognitive behavioural therapists need from clinical supervision to develop their skills in working with people with psychosis? A qualitative analysis(https://doi.org/10.1080/17522439.2021.1924243). *Psychosis, 14*(2), 120–130. doi:10.1080/17522439.2021.1924243
+**Harris, R. J.**, Maguire, T., & Newman-Taylor, K. (2021). [What do trainee cognitive behavioural therapists need from clinical supervision to develop their skills in working with people with psychosis? A qualitative analysis](https://doi.org/10.1080/17522439.2021.1924243). *Psychosis, 14*(2), 120–130. doi:10.1080/17522439.2021.1924243
 
 ## Under Review and Preprints
 
