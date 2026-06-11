@@ -4,12 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-## Publications
-
 You can also find my publications on my [Google Scholar profile]({{ site.author.googlescholar }}).
 
-## Peer-reviewed publications
+## Peer-Reviewed Publications
 
 Harris, R. J. (2025). *Prevalence of childhood exposure to domestic violence in 10 low- and middle-income countries: Analysis of Violence Against Children and Youth Survey data*. **Child Abuse & Neglect, 169**(2). https://doi.org/10.1016/j.chiabu.2025.107750
 
@@ -19,7 +16,7 @@ Harris, R. J., Channon, A. A., & Morgan, S. A. (2024). *Childhood exposure to do
 
 Harris, R. J., Maguire, T., & Newman-Taylor, K. (2021). *What do trainee cognitive behavioural therapists need from clinical supervision to develop their skills in working with people with psychosis? A qualitative analysis*. **Psychosis, 14**(2), 120–130. https://doi.org/10.1080/17522439.2021.1924243
 
-## Under review and preprints
+## Under Review and Preprints
 
 Harris, R. J., Morgan, S. A., & Channon, A. A. (2026). *Beyond the household: Ecological risk factors for childhood exposure to domestic violence and abuse across low- and middle-income countries*. Under review.
 
@@ -31,7 +28,7 @@ Porter, K., Harris, R. J., Butcher, K., et al. *From enforcement to intervention
 
 Harris, R. J., Channon, A. A., & Morgan, S. A. *Mental health outcomes associated with childhood exposure to domestic violence in ten low- and middle-income countries: A cross-national analysis*. In preparation.
 
-## Works in progress
+## Works in Progress
 
 Current manuscripts in preparation include:
 
@@ -41,7 +38,7 @@ Current manuscripts in preparation include:
 - Experiences of reproductive health and violence among those with disability in Nepal.
 - Measuring the unmeasured: Climatic shocks, temporality, and the evidence gap in intimate partner violence research.
 
-## Published conference papers
+## Published Conference Papers
 
 Harris, R. J. (2025). *Mental health outcomes associated with childhood exposure to domestic violence and abuse in low- and middle-income countries*. Presented at the IUSSP 30th International Population Conference, July 2025, and the 6th European Conference on Domestic Violence, September 2025. https://doi.org/10.2139/ssrn.5335163
 
