@@ -20,9 +20,9 @@ Klinkner, M., Smith, E., & **Harris, R. J.** (2025). [Rights-informed mass grave
 
 **Harris, R. J.**, Morgan, S. A., & Channon, A. A. (2026). *Beyond the household: Ecological risk factors for childhood exposure to domestic violence and abuse across low- and middle-income countries*.
 
-**Harris, R. J.**, Butcher, K., Porter, K., Weir, L., Parkes, J., & Morgan, S. A. (2026). *Measuring change in psychologist-led stalking interventions (PLSI): The Hampshire and Isle of Wight Multi-Agency Stalking Partnership measurement framework*. Preprint. https://doi.org/10.2139/ssrn.6478140
+**Harris, R. J.**, Butcher, K., Porter, K., Weir, L., Parkes, J., & Morgan, S. A. (2026). [Measuring change in psychologist-led stalking interventions (PLSI): The Hampshire and Isle of Wight Multi-Agency Stalking Partnership measurement framework](https://doi.org/10.2139/ssrn.6478140). doi:10.2139/ssrn.6478140
 
-Weir, L., Porter, K., **Harris, R. J.**, Morgan, S. A., & Parkes, J. (2026). *Hampshire and Isle of Wight Multi-Agency Stalking Partnership: Standards for interventions with perpetrators of stalking*. Preprint. https://doi.org/10.2139/ssrn.6468998
+Weir, L., Porter, K., **Harris, R. J.**, Morgan, S. A., & Parkes, J. (2026). [Hampshire and Isle of Wight Multi-Agency Stalking Partnership: Standards for interventions with perpetrators of stalking](https://doi.org/10.2139/ssrn.6468998). doi:10.2139/ssrn.6468998
 
 Porter, K., **Harris, R. J.**, Butcher, K., et al. *From enforcement to intervention: A whole-system, multi-agency model for addressing stalking in Hampshire and Isle of Wight*. In preparation.
 
@@ -40,8 +40,8 @@ Current manuscripts in preparation include:
 
 ## Published Conference Papers
 
-Harris, R. J. (2025). [Mental health outcomes associated with childhood exposure to domestic violence and abuse in low- and middle-income countries](https://doi.org/10.2139/ssrn.5335163). Presented at the IUSSP 30th International Population Conference, July 2025, and the 6th European Conference on Domestic Violence, September 2025. https://doi.org/10.2139/ssrn.5335163
+Harris, R. J. (2025). [Mental health outcomes associated with childhood exposure to domestic violence and abuse in low- and middle-income countries](https://doi.org/10.2139/ssrn.5335163). Presented at the IUSSP 30th International Population Conference, July 2025, and the 6th European Conference on Domestic Violence, September 2025. doi:10.2139/ssrn.5335163
 
 ## Thesis
 
-Harris, R. J. (2025). [Childhood exposure to domestic violence and abuse in low- and middle-income countries](https://eprints.soton.ac.uk/503055/). Doctoral thesis, University of Southampton. https://eprints.soton.ac.uk/503055/
+Harris, R. J. (2025). [Childhood exposure to domestic violence and abuse in low- and middle-income countries](https://eprints.soton.ac.uk/503055/). Doctoral thesis, University of Southampton.
