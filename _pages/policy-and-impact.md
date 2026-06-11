@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Policy & Impact"
+title: "Policy and Impact"
 permalink: /policy-and-impact/
 author_profile: true
 ---
