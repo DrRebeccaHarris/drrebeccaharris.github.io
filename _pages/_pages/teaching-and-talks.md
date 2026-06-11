@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching and Talks"
+title: "Teaching and Engagement"
 permalink: /teaching-and-talks/
 author_profile: true
 ---
@@ -17,7 +17,7 @@ Alongside classroom-based teaching, I have designed and led international fieldw
 I am a Fellow of Advance HE (FHEA), recognising my commitment to evidence-based and inclusive approaches to teaching and supporting learning.
 
 
-## Selected Talks and Presentations
+## Engagement
 
 I regularly present research at national and international conferences and have delivered invited talks, workshops, and panel discussions on violence, safeguarding, public health, and research methods.
 
@@ -35,27 +35,27 @@ Alongside conference presentations, I have contributed to invited panel discussi
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin-top: 20px;">
 
   <div>
-    <img src="/images/ecdv-2025.jpg" alt="Presenting at the European Conference on Domestic Violence" style="width: 100%; border-radius: 4px;">
-    <p><strong>Research communication</strong><br>
-    Presenting findings on childhood exposure to domestic violence and abuse at the European Conference on Domestic Violence (2025).</p>
+    <img src="/images/ecdv-2025.jpg" alt="Dr Rebecca Harris presenting research on childhood exposure to domestic violence and abuse at the European Conference on Domestic Violence in 2025." style="width: 100%; border-radius: 4px;">
+    <p><strong>Research Communication</strong><br>
+    Presenting findings on childhood exposure to domestic violence and abuse at the European Conference on Domestic Violence, Barcelona, Spain (2025).</p>
   </div>
 
-  <div>
-    <img src="/images/iussp-2025.jpg" alt="Presenting at the IUSSP International Population Conference" style="width: 100%; border-radius: 4px;">
-    <p><strong>International conference presentation</strong><br>
-    Presenting research at the IUSSP International Population Conference, Brisbane, Australia (2025).</p>
-  </div>
-
-  <div>
-    <img src="/images/panel-vicarious-trauma.jpg" alt="Panel discussion on vicarious trauma and researcher wellbeing" style="width: 100%; border-radius: 4px;">
-    <p><strong>Public engagement</strong><br>
-    Participating in an interdisciplinary panel discussion on vicarious trauma and researcher wellbeing, University of Southampton (2025).</p>
-  </div>
-
-  <div>
-    <img src="/images/nepal-workshop-2025.jpg" alt="Stakeholder workshop in Pokhara Nepal" style="width: 100%; border-radius: 4px;">
-    <p><strong>International collaboration</strong><br>
+    <div>
+    <img src="/images/nepal-workshop-2025.jpg" alt="Dr Rebecca Harris attending a stakeholder workshop on disability and sexual and reproductive health in Pokhara, Nepal, in 2025." style="width: 100%; border-radius: 4px;">
+    <p><strong>International Collaboration</strong><br>
     Stakeholder workshop on disability and sexual and reproductive health in Pokhara, Nepal (2025).</p>
+  </div>
+
+  <div>
+    <img src="/images/panel-vicarious-trauma.jpg" alt="Dr Rebecca Harris participating in an interdisciplinary panel discussion on vicarious trauma and researcher wellbeing at the University of Southampton in 2026." style="width: 100%; border-radius: 4px;">
+    <p><strong>Public Engagement</strong><br>
+    Participating in an interdisciplinary panel discussion on vicarious trauma and researcher wellbeing, University of Southampton (2026).</p>
+  </div>
+
+<div>
+    <img src="/images/iussp-2025.jpg" alt="Dr Rebecca Harris presenting research on mental health outcomes associated with childhood exposure to domestic violence and abuse at the International Population Conference in Brisbane, Australia, in 2025." style="width: 100%; border-radius: 4px;">
+    <p><strong>International Conference Presentation</strong><br>
+    Presenting research at the IUSSP International Population Conference, Brisbane, Australia (2025).</p>
   </div>
 
 </div>
