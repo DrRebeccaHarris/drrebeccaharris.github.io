@@ -4,9 +4,9 @@ title: "Policy and Impact"
 permalink: /policy-and-impact/
 author_profile: true
 ---
-My research aims to contribute to the development of evidence-informed policy and practice in the fields of violence, safeguarding, and public health. I have worked across academic, government, and healthcare settings, and much of my work focuses on producing research and outputs that can support practitioners, policymakers, and service providers.
+My research aims to contribute to the development of evidence-informed policy and practice in the fields of violence, safeguarding, and public health. I have worked across academic, government, and healthcare settings, and much of my work focuses on producing research and outputs that can support practitioners, policymakers, and service providers. I am particularly interested in knowledge exchange and in developing accessible ways of communicating research to those who can use it to improve policy and practice.
 
-Knowledge exchange and dissemination
+Knowledge Exchange
 ------
 
 ### Providing Psychological Intervention for People Who Have Engaged in Stalking
@@ -20,7 +20,7 @@ frameborder="0"
 allow="autoplay; fullscreen; picture-in-picture"
 allowfullscreen></iframe>
 
-Research and evaluation
+Research and Evaluation
 ------
 
 Current and previous projects include:
@@ -31,7 +31,7 @@ Current and previous projects include:
 - Research on disability, violence, and reproductive health in Nepal.
 - Research exploring links between climate change and intimate partner violence.
 
-Professional experience
+Professional Experience
 ------
 
 Alongside my academic work, I have experience conducting research within government and working within NHS mental health services. My work draws on perspectives from academia, policy, and practice, with a particular interest in how evidence can be translated into meaningful improvements in services and outcomes.
