@@ -4,8 +4,6 @@ title: "Policy & Impact"
 permalink: /policy-and-impact/
 author_profile: true
 ---
-
-Policy & Impact
 ======
 
 My research aims to contribute to the development of evidence-informed policy and practice in the fields of violence, safeguarding, and public health. I have worked across academic, government, and healthcare settings, and much of my work focuses on producing research and outputs that can support practitioners, policymakers, and service providers.
@@ -17,7 +15,7 @@ Knowledge exchange and dissemination
 
 This animation was developed as part of the Hampshire and Isle of Wight Multi-Agency Stalking Partnership (MASP) evaluation, led by researchers at the University of Southampton in collaboration with partner agencies. This work forms part of an ongoing programme of research and knowledge exchange evaluating and strengthening multi-agency responses to stalking. In this film, Dr Kirsty Butcher, Principal Clinical Psychologist and Clinical Lead for MASP, outlines how professionals can work safely and effectively with people who have engaged in stalking behaviour. The animation highlights why a psychological approach is important, and introduces the core components of meaningful, evidence-informed interventions.
 
-<iframe src="https://player.vimeo.com/video/1108012967"
+<iframe src="https://player.vimeo.com/video/1178793014"
 width="640"
 height="360"
 frameborder="0"
