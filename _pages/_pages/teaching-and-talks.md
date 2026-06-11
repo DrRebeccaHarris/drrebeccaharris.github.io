@@ -29,3 +29,33 @@ Recent presentations include:
 - British Society for Population Studies (BSPS), 2024.
 
 Alongside conference presentations, I have contributed to invited panel discussions and knowledge exchange events, including discussions on vicarious trauma and practitioner wellbeing. These activities reflect my interest in engaging with academic, policy, and professional audiences and in promoting dialogue between research and practice.
+
+## Gallery
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin-top: 20px;">
+
+  <div>
+    <img src="/images/ecdv-2025.jpg" alt="Presenting at the European Conference on Domestic Violence" style="width: 100%; border-radius: 4px;">
+    <p><strong>Research communication</strong><br>
+    Presenting findings on childhood exposure to domestic violence and abuse at the European Conference on Domestic Violence (2025).</p>
+  </div>
+
+  <div>
+    <img src="/images/iussp-2025.jpg" alt="Presenting at the IUSSP International Population Conference" style="width: 100%; border-radius: 4px;">
+    <p><strong>International conference presentation</strong><br>
+    Presenting research at the IUSSP International Population Conference, Brisbane, Australia (2025).</p>
+  </div>
+
+  <div>
+    <img src="/images/panel-vicarious-trauma.jpg" alt="Panel discussion on vicarious trauma and researcher wellbeing" style="width: 100%; border-radius: 4px;">
+    <p><strong>Public engagement</strong><br>
+    Participating in an interdisciplinary panel discussion on vicarious trauma and researcher wellbeing, University of Southampton (2025).</p>
+  </div>
+
+  <div>
+    <img src="/images/nepal-workshop-2025.jpg" alt="Stakeholder workshop in Pokhara Nepal" style="width: 100%; border-radius: 4px;">
+    <p><strong>International collaboration</strong><br>
+    Stakeholder workshop on disability and sexual and reproductive health in Pokhara, Nepal (2025).</p>
+  </div>
+
+</div>
