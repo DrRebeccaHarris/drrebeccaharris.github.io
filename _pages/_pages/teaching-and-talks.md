@@ -37,19 +37,19 @@ Alongside conference presentations, I have contributed to invited panel discussi
     <div>
     <img src="/images/nepal-workshop-2025.jpg" alt="Dr Rebecca Harris attending a stakeholder workshop on disability and sexual and reproductive health in Pokhara, Nepal, in 2025." style="width: 100%; border-radius: 4px;">
     <p><strong>International Collaboration</strong><br>
-    Stakeholder workshop on disability and sexual and reproductive health in Pokhara, Nepal (2025).</p>
+    Stakeholder workshop, Pokhara, Nepal (2025).</p>
   </div>
 
   <div>
     <img src="/images/panel-vicarious-trauma.jpg" alt="Dr Rebecca Harris participating in an interdisciplinary panel discussion on vicarious trauma and researcher wellbeing at the University of Southampton in 2026." style="width: 100%; border-radius: 4px;">
     <p><strong>Public Engagement</strong><br>
-    Participating in an interdisciplinary panel discussion on vicarious trauma and researcher wellbeing, University of Southampton (2026).</p>
+    Vicarious trauma panel discussion, University of Southampton (2026).</p>
   </div>
 
 <div>
     <img src="/images/iussp-2025.jpg" alt="Dr Rebecca Harris presenting research on mental health outcomes associated with childhood exposure to domestic violence and abuse at the International Population Conference in Brisbane, Australia, in 2025." style="width: 100%; border-radius: 4px;">
     <p><strong>Research Communication</strong><br>
-    Presenting research on mental health outcomes associated with childhood exposure to domestic violence and abuse at the IUSSP International Population Conference, Brisbane, Australia (2025).</p>
+    IUSSP International Population Conference, Brisbane, Australia (2025).</p>
   </div>
 
 </div>
