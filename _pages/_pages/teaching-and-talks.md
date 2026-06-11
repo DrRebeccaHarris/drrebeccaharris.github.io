@@ -32,13 +32,7 @@ Alongside conference presentations, I have contributed to invited panel discussi
 
 ## Gallery
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin-top: 20px;">
-
-  <div>
-    <img src="/images/ecdv-2025.jpg" alt="Dr Rebecca Harris presenting research on childhood exposure to domestic violence and abuse at the European Conference on Domestic Violence in 2025." style="width: 100%; border-radius: 4px;">
-    <p><strong>Research Communication</strong><br>
-    Presenting findings on childhood exposure to domestic violence and abuse at the European Conference on Domestic Violence, Barcelona, Spain (2025).</p>
-  </div>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 20px;">
 
     <div>
     <img src="/images/nepal-workshop-2025.jpg" alt="Dr Rebecca Harris attending a stakeholder workshop on disability and sexual and reproductive health in Pokhara, Nepal, in 2025." style="width: 100%; border-radius: 4px;">
@@ -54,8 +48,8 @@ Alongside conference presentations, I have contributed to invited panel discussi
 
 <div>
     <img src="/images/iussp-2025.jpg" alt="Dr Rebecca Harris presenting research on mental health outcomes associated with childhood exposure to domestic violence and abuse at the International Population Conference in Brisbane, Australia, in 2025." style="width: 100%; border-radius: 4px;">
-    <p><strong>International Conference Presentation</strong><br>
-    Presenting research at the IUSSP International Population Conference, Brisbane, Australia (2025).</p>
+    <p><strong>Research Communication</strong><br>
+    Presenting research on mental health outcomes associated with childhood exposure to domestic violence and abuse at the IUSSP International Population Conference, Brisbane, Australia (2025).</p>
   </div>
 
 </div>
