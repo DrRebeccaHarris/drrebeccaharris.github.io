@@ -4,8 +4,6 @@ title: "Policy and Impact"
 permalink: /policy-and-impact/
 author_profile: true
 ---
-## Policy and Impact
-
 My research aims to contribute to the development of evidence-informed policy and practice in the fields of violence, safeguarding, and public health. I have worked across academic, government, and healthcare settings, and much of my work focuses on producing research and outputs that can support practitioners, policymakers, and service providers.
 
 Knowledge exchange and dissemination
