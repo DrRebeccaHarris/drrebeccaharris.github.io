@@ -15,7 +15,7 @@ Knowledge exchange and dissemination
 
 ### Providing Psychological Intervention for People Who Have Engaged in Stalking
 
-This animation was developed as part of the Hampshire and Isle of Wight Multi-Agency Stalking Partnership (MASP) evaluation, led by researchers at the University of Southampton in collaboration with partner agencies. This work forms part of an ongoing programme of research and knowledge exchange evaluating and strengthening multi-agency responses to stalking. In this film, we outline how professionals can work safely and effectively with people who have engaged in stalking behaviour. The animation highlights why a psychological approach is important, and introduces the core components of meaningful, evidence-informed interventions.
+This animation was developed as part of the Hampshire and Isle of Wight Multi-Agency Stalking Partnership (MASP) evaluation, led by researchers at the University of Southampton in collaboration with partner agencies. This work forms part of an ongoing programme of research and knowledge exchange evaluating and strengthening multi-agency responses to stalking. In this film, Dr Kirsty Butcher, Principal Clinical Psychologist and Clinical Lead for MASP, outlines how professionals can work safely and effectively with people who have engaged in stalking behaviour. The animation highlights why a psychological approach is important, and introduces the core components of meaningful, evidence-informed interventions.
 
 <iframe src="https://player.vimeo.com/video/1108012967"
 width="640"
