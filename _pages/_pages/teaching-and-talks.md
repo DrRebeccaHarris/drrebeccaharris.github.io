@@ -6,8 +6,26 @@ author_profile: true
 ---
 ## Teaching
 
-I teach research methods across social science, criminology, psychology, population studies, and global health. My teaching focuses on making quantitative, qualitative, and mixed-methods research accessible, applied, and relevant to real-world social issues.
+I have taught across a range of disciplines, including research methods, criminology, psychology, demography, and global health. My teaching spans both undergraduate and postgraduate programmes and draws on interdisciplinary perspectives from public health, psychology, criminology, and applied social research.
+
+I have designed and delivered teaching in quantitative, qualitative, and mixed-methods research, as well as topics relating to criminological psychology, population studies, and global health. I have also supervised undergraduate, postgraduate, and PhD students and contributed to academic mentoring and student support.
+
+My approach to teaching is informed by evidence-based and inclusive practice, with an emphasis on developing students' confidence and independence as researchers and encouraging students to engage critically with contemporary social issues.
+
+Alongside classroom-based teaching, I have designed and led international fieldwork and overseas fieldtrips, providing students with opportunities to engage directly with applied social research in real-world contexts. These experiences have included the design and delivery of undergraduate fieldtrips to Nepal, enabling students to gain practical experience of research methods and global health challenges.
+
+I am a Fellow of Advance HE (FHEA), recognising my commitment to evidence-based and inclusive approaches to teaching and supporting learning.
+
 
 ## Selected Talks and Presentations
 
-Selected talks and conference presentations will be added here.
+I regularly present research at national and international conferences and have delivered invited talks, workshops, and panel discussions on violence, safeguarding, public health, and research methods.
+
+Recent presentations include:
+- British Psychological Society (BPS) Division of Forensic Psychology Annual Conference, 2026 (forthcoming).
+- International Population Conference (IUSSP), 2025.
+- European Conference on Domestic Violence, 2025, 2023.
+- International Society for the Prevention of Child Abuse and Neglect (ISPCAN), 2024.
+- British Society for Population Studies (BSPS), 2024.
+
+Alongside conference presentations, I have contributed to invited panel discussions and knowledge exchange events, including discussions on vicarious trauma and practitioner wellbeing. These activities reflect my interest in engaging with academic, policy, and professional audiences and in promoting dialogue between research and practice.
