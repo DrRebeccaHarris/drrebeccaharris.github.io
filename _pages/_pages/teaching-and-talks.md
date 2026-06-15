@@ -34,7 +34,7 @@ Alongside conference presentations, I have contributed to invited panel discussi
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 20px;">
 
   <div>
-    <img src="/images/iussp-2025.jpg"
+    <img src="/images/iussp-2025 resized.jpg"
          alt="Dr Rebecca Harris presenting research on mental health outcomes associated with childhood exposure to domestic violence and abuse at the International Population Conference in Brisbane, Australia, in 2025."
          style="width: 100%;
                 aspect-ratio: 1 / 1;
@@ -60,7 +60,7 @@ Alongside conference presentations, I have contributed to invited panel discussi
   </div>
 
   <div>
-    <img src="/images/nepal-workshop-2025.jpg"
+    <img src="/images/nepal-workshop-2025 resized.jpg"
          alt="Dr Rebecca Harris attending a stakeholder workshop on disability and sexual and reproductive health in Pokhara, Nepal, in 2025."
          style="width: 100%;
                 aspect-ratio: 1 / 1;
