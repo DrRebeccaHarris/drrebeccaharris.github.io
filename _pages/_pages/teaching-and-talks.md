@@ -48,7 +48,7 @@ Alongside conference presentations, I have contributed to invited panel discussi
 
   <div>
     <img src="/images/panel-vicarious-trauma.jpg"
-         alt="Dr Rebecca Harris participating in an interdisciplinary panel discussion on vicarious trauma and researcher wellbeing at the University of Southampton in 2026."
+         alt="Dr Rebecca Harris participating in an interdisciplinary panel discussion on vicarious trauma and researcher wellbeing at the University of Southampton, UK, in 2026."
          style="width: 100%;
                 aspect-ratio: 1 / 1;
                 object-fit: cover;
