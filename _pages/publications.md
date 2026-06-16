@@ -18,15 +18,15 @@ Klinkner, M., Smith, E., & **Harris, R. J.** (2025). [Rights-informed mass grave
 
 ## Under Review and Preprints
 
-**Harris, R. J.**, Morgan, S. A., & Channon, A. A. (2026). *[Beyond the household: Ecological risk factors for childhood exposure to domestic violence and abuse across ten low- and middle-income countries]*(https://papers.ssrn.com/abstract=6954638).
+**Harris, R. J.**, Morgan, S. A., & Channon, A. A. (2026). [*Beyond the household: Ecological risk factors for childhood exposure to domestic violence and abuse across ten low- and middle-income countries*](https://papers.ssrn.com/abstract=6954638).
 
-**Harris, R. J.**, Butcher, K., Porter, K., Weir, L., Parkes, J., & Morgan, S. A. (2026). [Measuring change in psychologist-led stalking interventions (PLSI): The Hampshire and Isle of Wight Multi-Agency Stalking Partnership measurement framework](https://doi.org/10.2139/ssrn.6478140). doi:10.2139/ssrn.6478140
+**Harris, R. J.**, Butcher, K., Porter, K., Weir, L., Parkes, J., & Morgan, S. A. (2026). [*Measuring change in psychologist-led stalking interventions (PLSI): The Hampshire and Isle of Wight Multi-Agency Stalking Partnership measurement framework*](https://doi.org/10.2139/ssrn.6478140). doi:10.2139/ssrn.6478140
 
-Weir, L., Porter, K., **Harris, R. J.**, Morgan, S. A., & Parkes, J. (2026). [Hampshire and Isle of Wight Multi-Agency Stalking Partnership: Standards for interventions with perpetrators of stalking](https://doi.org/10.2139/ssrn.6468998). doi:10.2139/ssrn.6468998
+Weir, L., Porter, K., **Harris, R. J.**, Morgan, S. A., & Parkes, J. (2026). [*Hampshire and Isle of Wight Multi-Agency Stalking Partnership: Standards for interventions with perpetrators of stalking*](https://doi.org/10.2139/ssrn.6468998). doi:10.2139/ssrn.6468998
 
-Porter, K., **Harris, R. J.**, Butcher, K., et al. *From enforcement to intervention: A whole-system, multi-agency model for addressing stalking in Hampshire and Isle of Wight*. In preparation.
+Porter, K., **Harris, R. J.**, Butcher, K., et al. *From enforcement to intervention: A whole-system, multi-agency model for addressing stalking in Hampshire and Isle of Wight*.
 
-**Harris, R. J.**, Channon, A. A., & Morgan, S. A. *Mental health outcomes associated with childhood exposure to domestic violence in ten low- and middle-income countries: A cross-national analysis*. In preparation.
+**Harris, R. J.**, Channon, A. A., & Morgan, S. A. *Mental health outcomes associated with childhood exposure to domestic violence in ten low- and middle-income countries: A cross-national analysis*.
 
 ## Works in Progress
 
