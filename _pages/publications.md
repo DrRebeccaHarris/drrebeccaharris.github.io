@@ -18,7 +18,7 @@ Klinkner, M., Smith, E., & **Harris, R. J.** (2025). [Rights-informed mass grave
 
 ## Under Review and Preprints
 
-**Harris, R. J.**, Morgan, S. A., & Channon, A. A. (2026). *Beyond the household: Ecological risk factors for childhood exposure to domestic violence and abuse across low- and middle-income countries*.
+**Harris, R. J.**, Morgan, S. A., & Channon, A. A. (2026). *[Beyond the household: Ecological risk factors for childhood exposure to domestic violence and abuse across ten low- and middle-income countries]* (https://papers.ssrn.com/abstract=6954638).
 
 **Harris, R. J.**, Butcher, K., Porter, K., Weir, L., Parkes, J., & Morgan, S. A. (2026). [Measuring change in psychologist-led stalking interventions (PLSI): The Hampshire and Isle of Wight Multi-Agency Stalking Partnership measurement framework](https://doi.org/10.2139/ssrn.6478140). doi:10.2139/ssrn.6478140
 
