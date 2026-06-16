@@ -2,6 +2,7 @@
 title: "Trauma and the Impact of Research on Emotionally Challenging Subjects"
 collection: talks
 type: "Panel"
+permalink: /talks/2026-04-17-vicarious-panel
 venue: "University of Southampton Highfield Campus"
 date: 2026-04-17
 location: "University of Southampton Highfield Campus, Southampton, UK"
