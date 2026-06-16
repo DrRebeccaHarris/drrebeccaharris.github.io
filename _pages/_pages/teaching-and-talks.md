@@ -30,7 +30,6 @@ Recent presentations include:
 
 Alongside conference presentations, I have contributed to invited panel discussions and knowledge exchange events, including discussions on vicarious trauma and practitioner wellbeing. These activities reflect my interest in engaging with academic, policy, and professional audiences and in promoting dialogue between research and practice.
 
-A map of selected conference presentations and engagement activities is available [here](/talkmap/).
 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 20px;">
