@@ -24,7 +24,7 @@ Klinkner, M., Smith, E., & **Harris, R. J.** (2025). [Rights-informed mass grave
 
 Weir, L., Porter, K., **Harris, R. J.**, Morgan, S. A., & Parkes, J. (2026). [*Hampshire and Isle of Wight Multi-Agency Stalking Partnership: Standards for interventions with perpetrators of stalking*](https://doi.org/10.2139/ssrn.6468998). doi:10.2139/ssrn.6468998
 
-Porter, K., **Harris, R. J.**, Butcher, K., et al. [*From enforcement to intervention: A whole-system, multi-agency model for addressing stalking in Hampshire and Isle of Wight*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6980920).
+Porter, K., **Harris, R. J.**, Butcher, K., et al. [*From enforcement to intervention: A whole-system, multi-agency model for addressing stalking in Hampshire and Isle of Wight*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6980920). doi:10.2139/ssrn.6980920
 
 **Harris, R. J.**, Channon, A. A., & Morgan, S. A. *Mental health outcomes associated with childhood exposure to domestic violence in ten low- and middle-income countries: A cross-national analysis*.
 
