@@ -56,7 +56,7 @@ Alongside conference presentations, I have contributed to invited panel discussi
                 border-radius: 4px;">
     <p style="margin-top: 10px;">
       <strong>Public Engagement</strong><br>
-      Vicarious trauma panel discussion, University of Southampton, UK (2026).
+      Vicarious trauma and researcher wellbeing panel discussion, University of Southampton, UK (2026).
     </p>
   </div>
 
