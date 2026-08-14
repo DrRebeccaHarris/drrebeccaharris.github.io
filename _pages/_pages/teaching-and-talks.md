@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teaching and Engagement"
-permalink: /teaching-and-talks/
+permalink: /teaching-and-engagement/
 author_profile: true
 ---
 ## Teaching
@@ -22,7 +22,7 @@ I am a Fellow of Advance HE (FHEA), recognising my commitment to evidence-based 
 I regularly present research at national and international conferences and have delivered invited talks, workshops, and panel discussions on violence, safeguarding, public health, and research methods.
 
 Recent presentations include:
-- British Psychological Society (BPS) Division of Forensic Psychology Annual Conference, 2026 (forthcoming).
+- British Psychological Society (BPS) Division of Forensic Psychology Annual Conference, 2026.
 - International Population Conference (IUSSP), 2025.
 - European Conference on Domestic Violence, 2025, 2023.
 - International Society for the Prevention of Child Abuse and Neglect (ISPCAN), 2024.
